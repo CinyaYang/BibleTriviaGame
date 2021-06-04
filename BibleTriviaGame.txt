@@ -1,0 +1,34 @@
+BibleQuestion
+
+Id
+category integer (1: 圣经人物， 2： 圣经事件； 3： 圣经经文； 4： 圣经书卷； 5： 教会，团契，生活)
+difficulty integer （1： 一星； 2： 二星； 3： 三星； 4： 四星； 5： 五星）
+questionId
+
+
+QuestionInfo
+
+id
+Question String
+Answer String
+Answered Boolean
+
+{
+    "Category":"",
+    "DifficultyLevel":"",
+    "QuestionInfoId":"",
+    "Answered": true
+}
+
+{
+    "Question":"Queshgfftion",
+    "Answer":"Answehg,r"
+}
+
+亚哈随鲁王原本的王后叫什么？瓦实提
+以斯帖的原名叫什么？ 哈大沙
+
+以斯帖记中女子被选进宫后要洁净身体多久？十二个月
+
+
+
